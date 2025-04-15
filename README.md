@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Introduction of github projects
-  - [hayamegu/skills-introduction-to-github  ](https://docs.github.com/ja/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
+  - [Projects について](https://docs.github.com/ja/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
 - 🌱 I’m currently learning ...Github, tools using API, introduction of github projects
 - 👯 I’m looking to collaborate on ....How to use GitHub projects comfortably in Japan and release the results quickly
 - 🤔 I’m looking for help with ...Contact me on here and Twitter
